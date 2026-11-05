@@ -2,8 +2,16 @@
   "family": "Bosch EDC15",
   "slug": "bosch-edc15",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-edc15-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-edc15-tuning-software",
+    "https://www.davincideluxe.org/bosch-edc15-tuning-software",
+    "https://www.davincideluxe.app/bosch-edc15-tuning-software",
+    "https://www.davincideluxe.software/bosch-edc15-tuning-software",
+    "https://www.davincideluxe.es/bosch-edc15-tuning-software",
+    "https://www.davincideluxe.de/bosch-edc15-tuning-software",
+    "https://www.davincideluxe.it/bosch-edc15-tuning-software",
+    "https://www.aesoftech.eu/bosch-edc15-tuning-software"
+  ],
   "matched_variants_count": 232,
   "brands": {
     "BMW": [
