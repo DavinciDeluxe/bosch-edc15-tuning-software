@@ -1,0 +1,328 @@
+{
+  "family": "Bosch EDC15",
+  "slug": "bosch-edc15",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-edc15-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 232,
+  "brands": {
+    "BMW": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C6",
+      "EDC15P"
+    ],
+    "MINI": [
+      "EDC15",
+      "EDC15C4",
+      "EDC15C6",
+      "EDC15P"
+    ],
+    "FIAT": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6-C7",
+      "EDC15P"
+    ],
+    "ALFA ROMEO": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15C7"
+    ],
+    "LANCIA": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15C7"
+    ],
+    "JEEP": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15C7"
+    ],
+    "CHRYSLER": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15C7"
+    ],
+    "RAM": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15C7"
+    ],
+    "FORD": [
+      "EDC15",
+      "EDC15P"
+    ],
+    "HONDA": [
+      "EDC15"
+    ],
+    "HYUNDAI": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15C7"
+    ],
+    "KIA": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15C7",
+      "EDC15CC"
+    ],
+    "ISUZU": [
+      "EDC15"
+    ],
+    "LAND ROVER": [
+      "EDC15",
+      "EDC15C4"
+    ],
+    "JAGUAR": [
+      "EDC15",
+      "EDC15C4"
+    ],
+    "MERCEDES-BENZ": [
+      "EDC15",
+      "EDC15C0",
+      "EDC15C12",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6"
+    ],
+    "SMART": [
+      "EDC15",
+      "EDC15C0",
+      "EDC15C06",
+      "EDC15C12",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6"
+    ],
+    "MAYBACH": [
+      "EDC15",
+      "EDC15C0",
+      "EDC15C12",
+      "EDC15C2",
+      "EDC15C5",
+      "EDC15C6"
+    ],
+    "MITSUBISHI": [
+      "EDC15C2"
+    ],
+    "OPEL": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15C4",
+      "EDC15C7",
+      "EDC15M",
+      "EDC15V",
+      "EDC15VM"
+    ],
+    "CHEVROLET": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C4",
+      "EDC15C7",
+      "EDC15V",
+      "EDC15VM"
+    ],
+    "VAUXHALL": [
+      "EDC15",
+      "EDC15C2",
+      "EDC15C4",
+      "EDC15C7",
+      "EDC15V",
+      "EDC15VM"
+    ],
+    "PEUGEOT": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C2",
+      "EDC15C3-C7"
+    ],
+    "CITROËN": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C2",
+      "EDC15C3-C7"
+    ],
+    "DS": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C2",
+      "EDC15C3-C7"
+    ],
+    "RENAULT": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C13",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15V"
+    ],
+    "DACIA": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C13",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15V"
+    ],
+    "NISSAN": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C13",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15V"
+    ],
+    "INFINITI": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C13",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15V"
+    ],
+    "ALPINE": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C13",
+      "EDC15C2",
+      "EDC15C3",
+      "EDC15V"
+    ],
+    "SUZUKI": [
+      "EDC15",
+      "EDC15C2"
+    ],
+    "TOYOTA": [
+      "EDC15",
+      "EDC15C9"
+    ],
+    "LEXUS": [
+      "EDC15",
+      "EDC15C9"
+    ],
+    "VOLKSWAGEN": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "AUDI": [
+      "EDC15",
+      "EDC15+",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VM+",
+      "EDC15VMP"
+    ],
+    "SEAT": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "SKODA": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "CUPRA": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "PORSCHE": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "LAMBORGHINI": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "BENTLEY": [
+      "EDC15",
+      "EDC15C",
+      "EDC15C4",
+      "EDC15C5",
+      "EDC15C6",
+      "EDC15P",
+      "EDC15P+",
+      "EDC15V",
+      "EDC15VM",
+      "EDC15VMP"
+    ],
+    "VOLVO": [
+      "EDC15",
+      "EDC15C11-3",
+      "EDC15C2",
+      "EDC15VM"
+    ],
+    "ROVER": [
+      "EDC15"
+    ]
+  }
+}
