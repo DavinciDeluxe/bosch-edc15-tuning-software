@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch EDC15 ECU Calibration Software — Classic turbo-diesel management (VAG 1.9 TDI, PSA 2.0 HDi, BMW, Mercedes CDI) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-edc15-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-edc15-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
