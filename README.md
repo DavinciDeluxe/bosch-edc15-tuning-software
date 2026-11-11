@@ -10,7 +10,7 @@
 
 | Brand | Bosch EDC15 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **AUDI** | 12 | `EDC15`, `EDC15+`, `EDC15C`, `EDC15C4`, `EDC15C5`, `EDC15C6`, `EDC15P`, `EDC15P+` … |
+| **AUDI** | 11 | `EDC15`, `EDC15+`, `EDC15C`, `EDC15C4`, `EDC15C5`, `EDC15C6`, `EDC15P+`, `EDC15V` … |
 | **SEAT** | 10 | `EDC15`, `EDC15C`, `EDC15C4`, `EDC15C5`, `EDC15C6`, `EDC15P`, `EDC15P+`, `EDC15V` … |
 | **SKODA** | 10 | `EDC15`, `EDC15C`, `EDC15C4`, `EDC15C5`, `EDC15C6`, `EDC15P`, `EDC15P+`, `EDC15V` … |
 | **CUPRA** | 10 | `EDC15`, `EDC15C`, `EDC15C4`, `EDC15C5`, `EDC15C6`, `EDC15P`, `EDC15P+`, `EDC15V` … |
