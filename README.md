@@ -39,7 +39,7 @@
 | **KIA** | 5 | `EDC15`, `EDC15C2`, `EDC15C3`, `EDC15C7`, `EDC15CC` |
 | **MINI** | 4 | `EDC15`, `EDC15C4`, `EDC15C6`, `EDC15P` |
 | **HYUNDAI** | 4 | `EDC15`, `EDC15C2`, `EDC15C3`, `EDC15C7` |
-| **PEUGEOT** | 4 | `EDC15`, `EDC15C`, `EDC15C2`, `EDC15C3-C7` |
+| **CITROËN** | 4 | `EDC15`, `EDC15C`, `EDC15C2`, `EDC15C3-C7` |
 
 👉 **[Open the full Bosch EDC15 guide & test your file free at https://www.davincideluxe.fr/bosch-edc15-tuning-software →](https://www.davincideluxe.fr/bosch-edc15-tuning-software)**
 
