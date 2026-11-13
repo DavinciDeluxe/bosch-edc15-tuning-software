@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc15-tuning-software",
     "https://www.aesoftech.eu/bosch-edc15-tuning-software"
   ],
-  "matched_variants_count": 230,
+  "matched_variants_count": 238,
   "brands": {
     "BMW": [
       "EDC15",
@@ -23,6 +23,7 @@
     ],
     "MINI": [
       "EDC15",
+      "EDC15C",
       "EDC15C4",
       "EDC15C6",
       "EDC15P"
@@ -103,6 +104,7 @@
     ],
     "MERCEDES-BENZ": [
       "EDC15",
+      "EDC150",
       "EDC15C0",
       "EDC15C12",
       "EDC15C2",
@@ -111,6 +113,7 @@
     ],
     "SMART": [
       "EDC15",
+      "EDC150",
       "EDC15C0",
       "EDC15C06",
       "EDC15C12",
@@ -120,6 +123,7 @@
     ],
     "MAYBACH": [
       "EDC15",
+      "EDC150",
       "EDC15C0",
       "EDC15C12",
       "EDC15C2",
@@ -143,16 +147,20 @@
     "CHEVROLET": [
       "EDC15",
       "EDC15C2",
+      "EDC15C3",
       "EDC15C4",
       "EDC15C7",
+      "EDC15M",
       "EDC15V",
       "EDC15VM"
     ],
     "VAUXHALL": [
       "EDC15",
       "EDC15C2",
+      "EDC15C3",
       "EDC15C4",
       "EDC15C7",
+      "EDC15M",
       "EDC15V",
       "EDC15VM"
     ],
