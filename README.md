@@ -36,10 +36,10 @@
 | **ALFA ROMEO** | 5 | `EDC15`, `EDC15C2`, `EDC15C5`, `EDC15C6`, `EDC15C7` |
 | **LANCIA** | 5 | `EDC15`, `EDC15C2`, `EDC15C5`, `EDC15C6`, `EDC15C7` |
 | **JEEP** | 5 | `EDC15`, `EDC15C2`, `EDC15C5`, `EDC15C6`, `EDC15C7` |
-| **RAM** | 5 | `EDC15`, `EDC15C2`, `EDC15C5`, `EDC15C6`, `EDC15C7` |
 | **KIA** | 5 | `EDC15`, `EDC15C2`, `EDC15C3`, `EDC15C7`, `EDC15CC` |
 | **HYUNDAI** | 4 | `EDC15`, `EDC15C2`, `EDC15C3`, `EDC15C7` |
 | **CITROËN** | 4 | `EDC15`, `EDC15C`, `EDC15C2`, `EDC15C3-C7` |
+| **DS** | 4 | `EDC15`, `EDC15C`, `EDC15C2`, `EDC15C3-C7` |
 
 👉 **[Open the full Bosch EDC15 guide & test your file free at https://www.davincideluxe.fr/bosch-edc15-tuning-software →](https://www.davincideluxe.fr/bosch-edc15-tuning-software)**
 
