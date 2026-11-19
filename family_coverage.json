@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc15-tuning-software",
     "https://www.aesoftech.eu/bosch-edc15-tuning-software"
   ],
-  "matched_variants_count": 232,
+  "matched_variants_count": 227,
   "brands": {
     "BMW": [
       "EDC15",
@@ -60,13 +60,6 @@
       "EDC15",
       "EDC15C2",
       "EDC15C3",
-      "EDC15C5",
-      "EDC15C6",
-      "EDC15C7"
-    ],
-    "RAM": [
-      "EDC15",
-      "EDC15C2",
       "EDC15C5",
       "EDC15C6",
       "EDC15C7"
